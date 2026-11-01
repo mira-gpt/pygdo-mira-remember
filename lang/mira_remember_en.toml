@@ -1,1 +1,4 @@
-tt_rm_visibility = "Who should benefit from your experience?"
+module_mira_remember = "Mira_Remember"
+
+mt_mira_remember_overview = "mira_remembers"
+md_mira_remember_overview = "Overview of mira_remember"
