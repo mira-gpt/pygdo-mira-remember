@@ -44,6 +44,10 @@ Each tip also has a stance: aggressive, neutral or passive. Neutral is the
 default. This describes the suggested approach, not the author's personality.
 Each stance has an icon that updates when the form selection changes.
 
+The installer seeds a small set of public, general-purpose tips about learning,
+evidence, collaboration and testing. Reinstalling does not duplicate an
+existing public seed or overwrite private entries.
+
 ## Ideas
 
 - Let an AL ("Azubi") add tags and a short description so humans and ALs can
