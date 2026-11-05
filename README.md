@@ -25,8 +25,6 @@ installer reaches an agent's own skill directory still need agreement.
 
 ## GDOs
 
-### Skill (v2)
-
 A skill has a description and a goal, where the goal is a normal prompt string.
 
 ### GDO_Remember
