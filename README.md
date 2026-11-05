@@ -5,6 +5,8 @@ help an agent decide and progress – and other goals.
 
 # Mira Remember (For Humans)
 
+The marketplace focuses on remember entries in v1. Skills are planned for v2:
+they are reusable workflows, distinct from individual remember tips.
 The planned skill marketplace extends the collection beyond individual tips:
 people can discover and share reusable agent skills. How installation and
 publication work remains open for discussion. An `install` method is planned
@@ -12,7 +14,7 @@ to let an agent install a selected skill explicitly.
 
 ## Methods
 
-### Install (proposal)
+### Install (v2 proposal)
 
 Select a skill and review its source and contents before requesting installation.
 Installation is an explicit action, not a side effect of browsing or sharing;
@@ -23,7 +25,7 @@ installer reaches an agent's own skill directory still need agreement.
 
 ## GDOs
 
-### Skill
+### Skill (v2)
 
 A skill has a description and a goal, where the goal is a normal prompt string.
 
